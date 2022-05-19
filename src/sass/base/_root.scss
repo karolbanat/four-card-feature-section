@@ -1,0 +1,36 @@
+:root {
+	// colors
+	--clr-primary-300: hsl(0, 78%, 62%);
+	--clr-primary-400: hsl(180, 62%, 55%);
+	--clr-primary-500: hsl(34, 97%, 64%);
+	--clr-primary-600: hsl(212, 86%, 64%);
+
+	--clr-neutral-300: hsl(0, 0%, 98%);
+	--clr-neutral-500: hsl(229, 6%, 66%);
+	--clr-neutral-700: hsl(234, 12%, 34%);
+
+	--clr-white: hsl(0, 0%, 100%);
+
+	// font families
+	--ff-primary: 'Poppins', sans-serif;
+
+	// spacing
+	--spacing-1: 1.6rem;
+	--spacing-2: 2.4rem;
+	--spacing-3: 3.6rem;
+	--spacing-4: 4rem;
+
+	--spacing-200: 1.875em;
+	--spacing-300: 2em;
+	--spacing-600: 4em;
+	--spacing-700: 4.75em;
+	--spacing-900: 5.75em;
+
+	// stage
+	--bg-main: var(--clr-neutral-300);
+	--main-heading: var(--clr-neutral-700);
+	--text: var(--clr-neutral-500);
+
+	--card-heading: var(--clr-neutral-700);
+	--card-shadow: 0 0.5em 1em hsla(0, 0%, 0%, 0.2);
+}

@@ -1,0 +1,7 @@
+main {
+	display: grid;
+	place-content: center;
+	padding: var(--spacing-900) var(--spacing-300);
+	min-height: 100vh;
+	background-color: var(--bg-main);
+}
